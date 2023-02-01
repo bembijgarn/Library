@@ -1,0 +1,15 @@
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\bin\Debug\net5.0\LemondoDOMAIN.deps.json
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\bin\Debug\net5.0\LemondoDOMAIN.dll
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\bin\Debug\net5.0\LemondoDOMAIN.pdb
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.AssemblyInfo.cs
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.dll
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\refint\LemondoDOMAIN.dll
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.pdb
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\ref\LemondoDOMAIN.dll
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\bin\Debug\net5.0\LemondoDOMAIN.runtimeconfig.json
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\bin\Debug\net5.0\LemondoDOMAIN.runtimeconfig.dev.json
+C:\Users\lasha\source\repos\Lemondo\LemondoDOMAIN\obj\Debug\net5.0\LemondoDOMAIN.genruntimeconfig.cache
